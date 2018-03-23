@@ -1,0 +1,71 @@
+
+
+.hehe
+{
+    padding: 10px;
+    font-family: arial;
+    font-size: 16px;
+    resize: none;
+    background-color: black;
+}
+
+
+input, select {
+    vertical-align:middle;
+}
+
+/*MY CODE*/
+
+.main-wrapper{
+    margin:0 auto;
+    width: 1000px;
+
+}
+a {
+    text-decoration: none;
+}
+
+
+
+.main-container{
+    padding-top:10px;
+
+}
+
+/* Signup.php*/
+.signup-form {
+    width: 400px;
+    margin: 0 auto;
+    padding-top:0px;
+}
+.signup-form input {
+    width: 90%;
+    height: 40px;
+    padding: 0px 5%;
+    margin-bottom: 4px;
+    background-color: #fff;
+    font-family: arial;
+    font-size: 16px;
+    color: #111;
+    line-height: 40px;
+    border: 2px;
+    border-color: black;
+}
+.signup-form button {
+    display: block;
+    margin: 0 auto;
+    width: 30%;
+    height: 40px;
+    border: none;
+    background-color: #222;
+    font-family: arial;
+    font-size: 16px;
+    color: #fff;
+    cursor: pointer;
+}
+.signup-form button:hover {
+    
+    background-color: #111;
+}
+
+
