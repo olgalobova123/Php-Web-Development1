@@ -21,26 +21,26 @@
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
   <!-- Navigation-->
   <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top" id="mainNav">
-    <a class="navbar-brand" href="index.html">Company Name</a>
+    <a class="navbar-brand" href="index.php">Company Name</a>
     <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav navbar-sidenav" id="exampleAccordion">
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Dashboard">
-          <a class="nav-link" href="index.html">
+          <a class="nav-link" href="index.php">
             <i class="fa fa-fw fa-dashboard"></i>
             <span class="nav-link-text">Dashboard</span>
           </a>
         </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Charts">
-          <a class="nav-link" href="EditCompanyProfile.html">
+          <a class="nav-link" href="EditCompanyProfile.php">
             <i class="fa fa-fw fa-area-chart"></i>
             <span class="nav-link-text">Edit Company Profile</span>
           </a>
         </li>
         <li class="nav-item" data-toggle="tooltip" data-placement="right" title="Tables">
-          <a class="nav-link" href="FutureEmployee.html">
+          <a class="nav-link" href="FutureEmployee.php">
             <i class="fa fa-fw fa-table"></i>
             <span class="nav-link-text">Future Employees</span>
           </a>
@@ -53,10 +53,10 @@
           </a>
           <ul class="sidenav-second-level collapse" id="collapseComponents">
             <li>
-              <a href="navbar.html">Add vacancy</a>
+              <a href="navbar.php">Add vacancy</a>
             </li>
             <li>
-              <a href="cards.html">View vancany</a>
+              <a href="cards.php">View vancany</a>
             </li>
           </ul>
         </li>
@@ -68,10 +68,10 @@
           </a>
           <ul class="sidenav-second-level collapse" id="collapseComponents">
             <li>
-              <a href="navbar.html">Navbar</a>
+              <a href="navbar.php">Navbar</a>
             </li>
             <li>
-              <a href="cards.html">Cards</a>
+              <a href="cards.php">Cards</a>
             </li>
           </ul>
         </li>
@@ -82,16 +82,16 @@
           </a>
           <ul class="sidenav-second-level collapse" id="collapseExamplePages">
             <li>
-              <a href="login.html">Login Page</a>
+              <a href="login.php">Login Page</a>
             </li>
             <li>
-              <a href="register.html">Registration Page</a>
+              <a href="register.php">Registration Page</a>
             </li>
             <li>
-              <a href="forgot-password.html">Forgot Password Page</a>
+              <a href="forgot-password.php">Forgot Password Page</a>
             </li>
             <li>
-              <a href="blank.html">Blank Page</a>
+              <a href="blank.php">Blank Page</a>
             </li>
           </ul>
         </li>
@@ -1120,7 +1120,7 @@
           <div class="modal-body">Select "Logout" below if you are ready to end your current session.</div>
           <div class="modal-footer">
             <button class="btn btn-secondary" type="button" data-dismiss="modal">Cancel</button>
-            <a class="btn btn-primary" href="login.html">Logout</a>
+            <a class="btn btn-primary" href="login.php">Logout</a>
           </div>
         </div>
       </div>

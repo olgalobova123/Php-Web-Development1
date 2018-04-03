@@ -1,14 +1,28 @@
 
 
-.hehe
-{
-    padding: 10px;
-    font-family: arial;
-    font-size: 16px;
-    resize: none;
-    background-color: black;
+a {
+    margin:0;
+    padding:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
 }
 
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
+}
+
+/* change border colour to suit your needs */
+hr {
+    display:block;
+    height:1px;
+    border:0;   
+    border-top:1px solid #ccc;
+    margin:1em 0;
+    padding:0;
+}
 
 input, select {
     vertical-align:middle;
@@ -49,7 +63,6 @@ a {
     color: #111;
     line-height: 40px;
     border: 2px;
-    border-color: black;
 }
 .signup-form button {
     display: block;
@@ -68,4 +81,11 @@ a {
     background-color: #111;
 }
 
-
+.introduction
+{
+    padding-left:0px 5% ;
+    font-family: arial;
+    font-size: 16px;
+    resize: none;
+    background-color: black;
+}
