@@ -14,18 +14,9 @@
 	</h2>	
 <h3 > From this page you can delete	Company Profile<br> Please choose the options from menu: </h3>
 
-  <form action="welcome_get.php" method="get">
-Insert company ID<br> you want to delete :
- <input type="text" name="Cid" >
- <br>
- <br>
-<?php
-  include ("DELETE_COMPANY.php");
-  ?>
+  <form action="DELETE_COMPANY.php" method=get>
+Insert company ID<br> you want to delete :<input type=text name=name >
+ <input type=submit> 
 </form>
-<br>
-<br>
-<a href="company_deleted.html">confirm delete company profile</a>  
-
 </body>
 </html>
